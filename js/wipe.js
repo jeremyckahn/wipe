@@ -1,3 +1,5 @@
+// This code is old as hell.  Don't hate.
+
 select = {
 	btnTrans 		: '#btnTranstion',
 	listContainer	: '.list-container'
